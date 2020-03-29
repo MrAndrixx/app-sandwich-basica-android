@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nombres_sandwiches_array">
+        <item>Barros Luco</item>
+        <item>Lomito</item>
+        <item>Chemilico</item>
+        <item>Completo</item>
+        <item>Barros Jarpa</item>
+        <item>Churrasco marino</item>
+    </string-array>
+
+    <string-array name="descripciones_sandwiches_array">
+        <item>Llamado así en honor a Ramón Barros Luco, Presidente de la República entre 1910 y 1915, quien frecuentaba el restorán del Club de la Unión en Santiago y pedía que le prepararan un emparedado de carne y queso fundido sobre pan tostado. La gracia del Barros Luco es que puede disfrutarse a cualquier hora del día, pues hay quienes lo prefieren para almozar, pero no falta el que lo disfruta como once o hasta desayuno.</item>
+        <item>Probablemente uno de los sándwiches más consumidos de Chile. Tiernas lonjas de lomo de cerdo fileteadas y bien cocidas son cubiertas por chucrut, coronadas por frescas rodajas de tomate y rodeadas de pan. Esta es la versión clásica. La versión «italiana» consta de lomo, palta, tomate y mayonesa.</item>
+        <item>El Chemilico consta de carne a la plancha con un huevo frito encima, enmarcado por dos rebanadas de pan. La clave para prepararlo está en que la yema del huevo no debe coagular, para que se rompa y moje el contenido del sándwich.</item>
+        <item>La versión local de los universales «hot dogs» se caracterizan por tener bastantes más ingredientes que sus pares internacionales: pan y vienesa, acompañados de tomate, salsa americana, chucrut y mayonesa para un completo, o palta, tomate y mayonesa para un italiano, las versiones más populares de este sencillo pero delicioso sándwich.</item>
+        <item>Otro emparedado nombrado en honor de un político chileno. Ernesto Barros Jarpa fue un abogado y ministro chileno que también frecuentaba el restorán del Club de la Unión, pero como se dice que siempre andaba apurado, pedía un sándwich más rápido de preparar que el Barros Luco. En vez de carne, solicitaba rodajas de jamón, sin olvidar el queso fundido y el pan de molde tostado.</item>
+        <item>Su nombre quizás no sea muy popular en todo Chile, pero para los habitantes de la región de Coquimbo es un clásico. Un sándwich en marraqueta que contiene delicioso pescado frito acompañado de una buena ensalada chilena (tomate, cebolla y ají verde). Sin duda una experiencia culinaria increíble.</item>
+    </string-array>
+
+    <integer-array name="id_imagenes_sandwiches_array">
+        <item>@drawable/barros_luco</item>
+        <item>@drawable/lomito</item>
+        <item>@drawable/chemilico</item>
+        <item>@drawable/completo</item>
+        <item>@drawable/barros_jarpa</item>
+        <item>@drawable/churrasco_marino</item>
+    </integer-array>
+
+    <string-array name="precio_sandwiches_array">
+        <item>$3.590</item>
+        <item>$3.990</item>
+        <item>$2.990</item>
+        <item>$1.990</item>
+        <item>$3.990</item>
+        <item>$3.990</item>
+    </string-array>
+</resources>

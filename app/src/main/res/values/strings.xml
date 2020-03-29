@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fast Food App</string>
+    <string name="fast_food">Fast Food</string>
+    <string name="sandwiches">Sandwiches</string>
+    <string name="sobre_nosotros">Sobre nosotros</string>
+    <string name="texto_1_sobre_nosotros">¡Somos una empresa de la región con más de 10 años de experiencia realizando sandwiches!</string>
+    <string name="texto_2_sobre_nosotros">Los mejores de la zona</string>
+    <string name="texto_3_sobre_nosotros">¡¡Si no chorrea no es Fast Food!!</string>
+    <string name="detalle_sandwich">Detalle Sandwich</string>
+    <string name="precio">"Precio: "</string>
+</resources>
